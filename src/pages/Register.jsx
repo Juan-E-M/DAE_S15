@@ -7,7 +7,7 @@ class Register extends React.Component {
 
     render(){
         return(
-            <div id="layoutAuthentication" class="bg-primary">
+            <div id="layoutAuthentication" className="bg-primary">
                 <div id="layoutAuthentication_content">
                     <main>
                         <div className="container">
